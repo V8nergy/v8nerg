@@ -1,0 +1,41 @@
+﻿.elementor-18524 .elementor-element.elementor-element-af2a246:not(.elementor-motion-effects-element-type-background), .elementor-18524 .elementor-element.elementor-element-af2a246 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F1F1F1;}.elementor-18524 .elementor-element.elementor-element-af2a246{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 0px 0px 0px;}.elementor-18524 .elementor-element.elementor-element-af2a246 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-18524 .elementor-element.elementor-element-5912c63 > .elementor-widget-container{padding:0px 0px 10px 0px;}.elementor-18524 .elementor-element.elementor-element-5912c63{text-align:center;font-family:"Gotham-Book", Sans-serif;font-size:11px;line-height:1.4em;color:#000000;}.elementor-18524 .elementor-element.elementor-element-c6b4b64{text-align:center;font-family:"Gotham-Book", Sans-serif;font-size:12px;color:#ff0000ff;}.elementor-18524 .elementor-element.elementor-element-488db79{text-align:center;font-family:"Gotham-Book", Sans-serif;font-size:11px;color:#000000;}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}@media(max-width:767px){.elementor-18524 .elementor-element.elementor-element-5912c63 > .elementor-widget-container{padding:0px 0px 10px 0px;}.elementor-18524 .elementor-element.elementor-element-5912c63{text-align:center;font-size:12px;line-height:1.3em;}.elementor-18524 .elementor-element.elementor-element-c6b4b64 > .elementor-widget-container{padding:0px 0px 10px 0px;}.elementor-18524 .elementor-element.elementor-element-c6b4b64{font-size:12px;line-height:1.3em;}.elementor-18524 .elementor-element.elementor-element-488db79 > .elementor-widget-container{padding:0px 20px 30px 20px;}.elementor-18524 .elementor-element.elementor-element-488db79{font-size:12px;line-height:1.3em;}}/* Start custom CSS for text-editor, class: .elementor-element-5912c63 */.elementor-18524 .elementor-element.elementor-element-5912c63 {
+    margin-bottom:0px !important;
+}
+.disclaimer-div{
+    width: 60% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media (max-width: 767px){
+    .disclaimer-div{
+        width: 80% !important;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: justify !important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-c6b4b64 */.elementor-18524 .elementor-element.elementor-element-c6b4b64 {
+    margin-bottom:0px !important;
+}
+.priv-policy-link a, .priv-policy-link a:hover, .priv-policy-link a:focus {
+    color: #ff0000ff;
+    font-weight: bold;
+}
+.hide {
+    display: none;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-488db79 */.elementor-18524 .elementor-element.elementor-element-488db79 {
+    margin-bottom:0px !important;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gotham-Book';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2021/05/Gotham-Bold.eot');
+	src: url('../../2021/05/Gotham-Bold-1.eot') format('embedded-opentype'),
+		url('../../2021/05/Gotham-Book-1.woff2') format('woff2'),
+		url('../../2021/05/Gotham-Book-1.woff') format('woff'),
+		url('../../2021/05/Gotham-Book-1.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
